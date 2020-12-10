@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Fragment</string>
+
+    <string name="app_name2">Fragment</string>
+
+    <!--    <string name=" "> </string>-->
+
+    <!--    LOGIN SCREEN-->
+    <string name="Hello_world">Hello world!!</string>
+    <string name="User">User</string>
+    <string name="Password">Password</string>
+    <!--    BOTONES-->
+    <string name="login">Dew It! </string>
+
+    <!--    MENU BUTTONS-->
+    <string name="Insert">Insert</string>
+    <string name="List">List</string>
+    <string name="Delete">Delete</string>
+
+    <!--    ADD INCIDENCE-->
+    <string-array name="numbers">
+        <item>little Urgent</item>
+        <item>Urgent</item>
+        <item>very Urgent</item>
+        <item>exaggeratedly Urgent</item>
+    </string-array>
+
+    <string name="textAdd">add Incidence</string>
+
+    <!--    DELETE INCIDENCE-->
+    <string name="textIdIncidence">Id Incidence</string>
+    <string name="textDeleteAll">Delete all Incidence</string>
+
+    <string name="alertAccept">Accept</string>
+    <string name="alertCancel">Cancel</string>
+
+    <string name="alertTxt">Are you sure you want to eliminate this incident?</string>
+    <string name="alertDeleted">Issue removed</string>
+
+    <string name="alertAllTxt">Are you sure you want to eliminate all the incidents?</string>
+    <string name="alertAllDeleted">All Incidents removed</string>
+
+        <!--    BOTONES-->
+        <string name="deleteIncidence">Delete</string>
+        <string name="deleteAll">Delete All </string>
+
+
+    <!--    LANGUAGE-->
+    <string name="textEsp">Spanish</string>
+    <string name="textEng">English</string>
+
+        <!--    BOTONES-->
+        <string name="bttChange">Change language</string>
+
+</resources>

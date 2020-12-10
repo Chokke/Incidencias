@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fragment</string>
+
+    <string name="app_name2">Fragment</string>
+
+
+    <!--    LOGIN SCREEN-->
+    <string name="Hello_world">Hola Mundo!!</string>
+    <string name="User">Usuario</string>
+    <string name="Password">Contraseña</string>
+         <!--    BOTONES-->
+         <string name="login">Hazlo!</string>
+
+    <!--    MENU BUTTONS-->
+    <string name="Insert">Agregar</string>
+    <string name="List">Listar</string>
+    <string name="Delete">Eliminar</string>
+
+    <!--    ADD INCIDENCE-->
+    <string-array name="numbers">
+        <item>poco Urgente</item>
+        <item>Urgente</item>
+        <item>muy Urgente</item>
+        <item>exageradamente Urgente</item>
+    </string-array>
+
+    <string name="textAdd">Agregar Incidencia</string>
+
+    <!--    DELETE INCIDENCE-->
+    <string name="textIdIncidence">Id de la Incidencia</string>
+    <string name="textDeleteAll">Eliminar Incidencias</string>
+
+    <string name="alertAccept">Aceptar</string>
+    <string name="alertCancel">Cancelar</string>
+
+    <string name="alertTxt">¿Estas seguro de que quieres eliminar esta incidencia?</string>
+    <string name="alertDeleted">Incidencia eliminada</string>
+
+    <string name="alertAllTxt">¿Estas seguro de que quieres eliminar todas las incidencias?</string>
+    <string name="alertAllDeleted">Todas las Incidencias eliminadas</string>
+
+
+        <!--    BOTONES-->
+        <string name="deleteIncidence">Eliminar</string>
+        <string name="deleteAll">Eliminar todas las Incidencias</string>
+
+    <!--    LANGUAGE-->
+    <string name="textEsp">Español</string>
+    <string name="textEng">Ingles</string>
+
+        <!--    BOTONES-->
+        <string name="bttChange">cambiar idioma</string>
+</resources>
